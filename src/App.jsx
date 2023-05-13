@@ -1,12 +1,12 @@
+// imported components
 import './App.css'
+import FloorPlan from './FloorPlan'
 
 function App() {
 
   return (
     <>
-      <div>
-        <p>Hello world.</p>
-      </div>
+      <FloorPlan />
     </>
   )
 }
